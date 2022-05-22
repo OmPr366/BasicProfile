@@ -19,7 +19,7 @@ class MyApp extends StatelessWidget {
             children: const [
               CircleAvatar(
                 
-                backgroundImage: AssetImage('images/profile1.jpg'),
+                backgroundImage: AssetImage('images/profile.jpg'),
                 radius: 80,
               ),
               // Margin 
